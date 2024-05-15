@@ -9525,7 +9525,7 @@ textarea.form-control-lg {
   cursor: pointer;
   position: relative; }
   .burger.light:before, .burger.light span, .burger.light:after {
-    background: #fff; }
+    background: #293f2b; }
 
 .burger:before, .burger span, .burger:after {
   width: 100%;
@@ -9689,10 +9689,10 @@ textarea {
     position: relative;
     z-index: 2; }
   .hero .heading {
-    color: #fff;
-    font-size: clamp(1.5rem, 2.5vw, 2.5rem);
+    color: #b1b1b1;
+    font-size: clamp(3.0rem, 1.5vw, 2.5rem);
     margin-bottom: 30px;
-    font-weight: 600; }
+    font-weight: 900;}
   .hero .lead {
     color: #fff;
     font-size: 14px;
@@ -9744,7 +9744,7 @@ textarea {
         bottom: 0;
         top: 0;
         z-index: 1;
-        background: rgba(34, 34, 34, 0.4); }
+        background: rgba(34, 34, 34, 0.66); }
 
 .section {
   padding-top: 4rem;
